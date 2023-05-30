@@ -1,5 +1,6 @@
 #include <stdio.h>
 /**
+ * reset_to_98 - takes a pointer to an int and updates
  * main - programme that takes a pointer to an int variable and updates
  * it changes to 98
  *
