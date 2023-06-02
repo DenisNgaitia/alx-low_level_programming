@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  *_strcat -  concatenates two strings
  *@dest: Pointing to a char that will be updated
  *@src: Pointing to a char that will be updated
