@@ -1,5 +1,6 @@
 #include "main.h"
 /*
+ * main - a programme that concatenates two strings
  * _strcat - concatenates two strings
  * @dest: input value
  * @src: input value
@@ -26,4 +27,4 @@ char *_strcat(char *dest, char *src)
 
 	dest[i] = '\0';
 	return (dest);
-}	
+}
